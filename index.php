@@ -213,6 +213,7 @@
 			<!-- POPUP FOR FIND US -->
 
 
+              <!-- TEST FROM UBUNTU 14.04 -->
 
 
 				<a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">HOME</a>
